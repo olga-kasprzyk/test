@@ -24,7 +24,7 @@ To run a specific test run:
 
 To generate the code coverage report run
 
-- XDEBUG_MODE=coverage ./vendor/bin/phpunit --coverage-text reports/
+- XDEBUG_MODE=coverage ./vendor/bin/phpunit --coverage-html reports/
 
 The full test coverage report can be found in reports, open either index.html or dashboard.html to view
 
